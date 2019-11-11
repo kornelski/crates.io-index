@@ -1,4 +1,3 @@
-{"name":"piston-texture","vers":"0.0.0","deps":[],"cksum":"813b6c83fc4762023f4c4c826f9334c2dcbc951fca8d5b804094cffb4872f4ea","features":{},"yanked":false}
 {"name":"piston-texture","vers":"0.0.1","deps":[],"cksum":"b96c6408eeaf2610f5377bc4e6a949eb6d2694252a45b50610381ce5c912ad04","features":{},"yanked":false}
 {"name":"piston-texture","vers":"0.1.0","deps":[],"cksum":"37022c43f71ebca078bc3fd2065f8deb92b55af23551c973b6eb616f1ce0302f","features":{},"yanked":false}
 {"name":"piston-texture","vers":"0.2.0","deps":[],"cksum":"302f9beebb516af339d165dab4f9b60e23f6467012e74040eebaa58ec700cdbd","features":{},"yanked":false}
@@ -9,5 +8,4 @@
 {"name":"piston-texture","vers":"0.4.0","deps":[],"cksum":"6da44aa91a5bbb3c2563f692f1df9e84bc551fa37866b7d32c09899a456ad9f0","features":{},"yanked":false}
 {"name":"piston-texture","vers":"0.5.0","deps":[],"cksum":"ca39d71646f3b878dd4b0f9758f38d09658b2efd08dbdd9abf9f17000f1b9832","features":{},"yanked":false}
 {"name":"piston-texture","vers":"0.6.0","deps":[],"cksum":"3649b5f9d1ba48d95207976118e9e2ed473c1de36f6f79cc1b7ed5b75b655b61","features":{},"yanked":false}
-{"name":"piston-texture","vers":"0.7.0","deps":[],"cksum":"6e41fca14cf79dd54eedddf297b3ff91669e3efbcee35738711992ba158ebbd9","features":{},"yanked":false,"links":null}
-{"name":"piston-texture","vers":"0.8.0","deps":[],"cksum":"62c93564eef40a9920d026697f63d224efd7ac80981fb418fe1dad447c2d9bdd","features":{},"yanked":false,"links":null}
+{"name":"piston-texture","vers":"0.7.0","deps":[],"cksum":"6e41fca14cf79dd54eedddf297b3ff91669e3efbcee35738711992ba158ebbd9","features":{},"yanked":false}
